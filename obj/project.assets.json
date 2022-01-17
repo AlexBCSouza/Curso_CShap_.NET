@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\digitalInnovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\Curso_CShap_.NET\\digitalInnovationOne.csproj",
       "projectName": "digitalInnovationOne",
-      "projectPath": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\digitalInnovationOne.csproj",
+      "projectPath": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\Curso_CShap_.NET\\digitalInnovationOne.csproj",
       "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\obj\\",
+      "outputPath": "C:\\Users\\alexb\\Documents\\GitHub\\digitalInnovationOne\\Curso_CShap_.NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
