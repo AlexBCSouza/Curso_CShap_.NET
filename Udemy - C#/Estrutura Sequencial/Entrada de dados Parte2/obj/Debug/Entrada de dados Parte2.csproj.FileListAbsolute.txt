@@ -1,0 +1,8 @@
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\obj\Debug\Entrada de dados Parte2.csproj.AssemblyReference.cache
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\obj\Debug\Entrada de dados Parte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\obj\Debug\Entrada de dados Parte2.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\bin\Debug\Entrada de dados Parte2.exe.config
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\bin\Debug\Entrada de dados Parte2.exe
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\bin\Debug\Entrada de dados Parte2.pdb
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\obj\Debug\Entrada de dados Parte2.exe
+C:\Users\alexb\Documents\GitHub\digitalInnovationOne\Curso_CShap_.NET\Udemy - C#\Estrutura Sequencial\Entrada de dados Parte2\obj\Debug\Entrada de dados Parte2.pdb
