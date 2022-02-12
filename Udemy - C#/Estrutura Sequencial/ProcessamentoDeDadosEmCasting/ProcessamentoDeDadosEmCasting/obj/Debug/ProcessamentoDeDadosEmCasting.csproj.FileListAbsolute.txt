@@ -1,0 +1,8 @@
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\bin\Debug\ProcessamentoDeDadosEmCasting.exe.config
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\bin\Debug\ProcessamentoDeDadosEmCasting.exe
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\bin\Debug\ProcessamentoDeDadosEmCasting.pdb
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\obj\Debug\ProcessamentoDeDadosEmCasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\obj\Debug\ProcessamentoDeDadosEmCasting.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\obj\Debug\ProcessamentoDeDadosEmCasting.exe
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\obj\Debug\ProcessamentoDeDadosEmCasting.pdb
+C:\Users\alexb\Documents\Estudos\Udemy - C#\ProcessamentoDeDadosEmCasting\ProcessamentoDeDadosEmCasting\obj\Debug\ProcessamentoDeDadosEmCasting.csproj.AssemblyReference.cache

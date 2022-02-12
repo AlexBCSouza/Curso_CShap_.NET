@@ -1,0 +1,4 @@
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Primeiro Projeto\Primeiro Projeto\Primeiro Projeto\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.csprojAssemblyReference.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Primeiro Projeto\Primeiro Projeto\Primeiro Projeto\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Primeiro Projeto\Primeiro Projeto\Primeiro Projeto\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Primeiro Projeto\Primeiro Projeto\Primeiro Projeto\SegundoProjeto\obj\Debug\netcoreapp3.1\SegundoProjeto.AssemblyInfo.cs

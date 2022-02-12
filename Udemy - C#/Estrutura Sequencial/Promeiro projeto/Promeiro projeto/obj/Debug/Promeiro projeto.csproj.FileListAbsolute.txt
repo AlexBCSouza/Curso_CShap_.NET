@@ -1,0 +1,8 @@
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\bin\Debug\Promeiro projeto.exe.config
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\bin\Debug\Promeiro projeto.exe
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\bin\Debug\Promeiro projeto.pdb
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\obj\Debug\Promeiro projeto.csproj.AssemblyReference.cache
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\obj\Debug\Promeiro projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\obj\Debug\Promeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\obj\Debug\Promeiro projeto.exe
+C:\Users\alexb\Documents\Estudos\Udemy - C#\Promeiro projeto\Promeiro projeto\obj\Debug\Promeiro projeto.pdb

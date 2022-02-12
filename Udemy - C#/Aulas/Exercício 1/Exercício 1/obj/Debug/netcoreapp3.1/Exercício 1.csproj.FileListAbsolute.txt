@@ -1,0 +1,13 @@
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.exe
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.deps.json
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.json
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.dev.json
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.dll
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.pdb
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfo.cs
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.dll
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.pdb
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.genruntimeconfig.cache
+C:\Users\alexb\Desktop\C# - Udemy\Aulas\Exercício 1\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.csprojAssemblyReference.cache

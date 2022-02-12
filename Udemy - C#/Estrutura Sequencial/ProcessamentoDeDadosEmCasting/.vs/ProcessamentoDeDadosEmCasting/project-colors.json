@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da8d9073-9811-4f2e-a794-141443fe019c": {
+      "ProjectGuid": "da8d9073-9811-4f2e-a794-141443fe019c",
+      "DisplayName": "ProcessamentoDeDadosEmCasting",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
